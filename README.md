@@ -15,7 +15,7 @@ Bem-vindo ao React-FreeGamesHub, o site onde você encontra jogos grátis de tod
 
 ## Tecnologias Utilizadas
 
-- **Front-end**: React, HTML, CSS, JavaScript
+- **Front-end**: React, HTML, TailWind
 - **Back-end**: Node.js, Express
 - **Banco de Dados**: Firebase
 - **Integração com API**: Utilizamos APIs de terceiros para obter informações atualizadas sobre os jogos.
