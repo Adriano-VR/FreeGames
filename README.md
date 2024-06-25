@@ -21,7 +21,7 @@ Bem-vindo ao React-FreeGamesHub, o site onde você encontra jogos grátis de tod
 - **Integração com API**: Utilizamos APIs de terceiros para obter informações atualizadas sobre os jogos.
 
 ## Acesse o Site
-O projeto está hospedado em: https://adriano2607.github.io/
+O projeto está hospedado em: https://react-free-games-hub.vercel.app
 
 ## Licença
 Este projeto está licenciado sob a MIT License.
