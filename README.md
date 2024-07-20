@@ -1,4 +1,4 @@
-# React-FreeGamesHub
+# React-FreeGames
 
 ## Descrição
 
